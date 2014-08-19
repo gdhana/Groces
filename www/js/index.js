@@ -25,8 +25,8 @@ var deviceInfo = function(){
     
         //window.location="http://groceries.asda.com";
         //window.location="http://groceries-qa5.asda.com/asda-webstore/landing/home.shtml";
-        //window.location="https://172.29.235.231/wwwroot/htmlTemplates/pages/landing/rwd1.shtml";
-        window.location="https://192.168.146.82/wwwroot/htmlTemplates/pages/landing/rwd1.shtml";
+        window.location="https://172.29.235.231/wwwroot/htmlTemplates/pages/landing/rwd1.shtml";
+        //window.location="https://192.168.146.82/wwwroot/htmlTemplates/pages/landing/rwd1.shtml";
         //window.location="../Default@2x~iphone.png";
 
     
